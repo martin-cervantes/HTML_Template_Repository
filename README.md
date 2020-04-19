@@ -4,30 +4,28 @@
 
 ![screenshot](./screenshot.png)
 
-    Additional description about the project and its features.
-
-## Built With
+## :package: Built With
 
     - Plain HTML5
     - Pure CSS3
 
-## Live Demo
+## :mag: Live Demo
 
 [Live Demo Link](https://mcervantes71.github.io//index.html)
 
-## Getting Started
+## :computer: Getting Started
 
-    To get a local copy up and running follow these simple example steps.
+    To get a local copy up and running follow these simple steps.
 
 ### Install
 
-    Download the repository
+    Download the repository.
 
 ### Usage
 
-    In any browser, open the index.html file
+    In any browser, open the index.html file.
 
-## Authors
+## :busts_in_silhouette: Authors
 
 👤 **Author1**
 
@@ -42,7 +40,7 @@
 
 Feel free to check the [issues page](../../issues).
 
-## Show your support
+## :star2: Show your support
 
     Give a ⭐️ if you like this project!
 
