@@ -108,6 +108,9 @@ section {
 }
 
 body {
+  color: blue;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 16px;
   line-height: 1;
 }
 
@@ -121,10 +124,10 @@ q {
   quotes: none;
 }
 
-blockquote::before,
-blockquote::after,
+q::after,
 q::before,
-q::after {
+blockquote::after,
+blockquote::before {
   content: '';
   content: none;
 }
